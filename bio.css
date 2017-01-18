@@ -1,0 +1,46 @@
+body {
+	background-image: url("http://pokemoneclipse.net/images/plushie-bgs/bg3.jpg");
+	margin: 0;
+	padding: 0;
+	font-family: "Times New Roman", Times, Georgia, Sans-serif;
+	font-size: 18px;
+	font-weight: ;
+	line-height: 125%;
+}
+
+h1 {color: black;
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	font-size: 50px;
+}
+
+.container {
+	width: 800px;
+	margin: 0 auto;	
+	color: black;
+}
+
+#main-bio,
+#bio-pic {
+	float: left;
+} 
+
+#main-bio {
+	width: 90%;
+}
+
+#contact-info {
+	clear: both;
+	padding-top: 10px;
+}
+
+#bio-pic {
+	width: 30%;
+	margin-right: 30px;
+	margin-bottom: 20px;
+	border: 5px solid white;
+}
+
+
